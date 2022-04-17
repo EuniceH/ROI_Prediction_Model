@@ -1,0 +1,490 @@
+Sector;Ticker;Company
+Commercial Services;SPGI;S&P Global Inc.
+Commercial Services;MCO;Moody’s Corporation
+Commercial Services;CPRT;Copart, Inc.
+Commercial Services;EFX;Equifax, Inc.
+Commercial Services;FLT;FleetCor Technologies, Inc.
+Commercial Services;CRL;Charles River Laboratories International, Inc.
+Commercial Services;OMC;Omnicom Group Inc.
+Commercial Services;IPG;Interpublic Group of Companies, Inc. (The)
+Commercial Services;RHI;Robert Half International Inc.
+Commercial Services;NLSN;Nielsen N.V.
+Communications;VZ;Verizon Communications Inc.
+Communications;T;AT&T Inc.
+Communications;TMUS;T-Mobile US, Inc.
+Communications;LUMN;Lumen Technologies, Inc.
+Consumer Durables;TSLA;Tesla, Inc.
+Consumer Durables;GM;General Motors Company
+Consumer Durables;F;Ford Motor Company
+Consumer Durables;ATVI;Activision Blizzard, Inc
+Consumer Durables;EA;Electronic Arts Inc.
+Consumer Durables;DHI;D.R. Horton, Inc.
+Consumer Durables;SWK;Stanley Black & Decker, Inc.
+Consumer Durables;TTWO;Take-Two Interactive Software, Inc.
+Consumer Durables;NVR;NVR, Inc.
+Consumer Durables;LKQ;LKQ Corporation
+Consumer Durables;PHM;PulteGroup, Inc.
+Consumer Durables;WHR;Whirlpool Corporation
+Consumer Durables;HAS;Hasbro, Inc.
+Consumer Durables;MHK;Mohawk Industries, Inc.
+Consumer Durables;SNA;Snap-On Incorporated
+Consumer Non-Durables;PG;Procter & Gamble Company (The)
+Consumer Non-Durables;NKE;Nike, Inc.
+Consumer Non-Durables;KO;Coca-Cola Company (The)
+Consumer Non-Durables;PEP;PepsiCo, Inc.
+Consumer Non-Durables;PM;Philip Morris International Inc
+Consumer Non-Durables;EL;Estee Lauder Companies, Inc. (The)
+Consumer Non-Durables;MDLZ;Mondelez International, Inc.
+Consumer Non-Durables;MO;Altria Group, Inc.
+Consumer Non-Durables;CL;Colgate-Palmolive Company
+Consumer Non-Durables;MNST;Monster Beverage Corporation
+Consumer Non-Durables;KMB;Kimberly-Clark Corporation
+Consumer Non-Durables;STZ;Constellation Brands, Inc.
+Consumer Non-Durables;KHC;The Kraft Heinz Company
+Consumer Non-Durables;GIS;General Mills, Inc.
+Consumer Non-Durables;HSY;The Hershey Company
+Consumer Non-Durables;IFF;International Flavors & Fragrances, Inc.
+Consumer Non-Durables;TSN;Tyson Foods, Inc.
+Consumer Non-Durables;VFC;V.F. Corporation
+Consumer Non-Durables;HRL;Hormel Foods Corporation
+Consumer Non-Durables;MKC;McCormick & Company, Incorporated
+Consumer Non-Durables;CHD;Church & Dwight Company, Inc.
+Consumer Non-Durables;K;Kellogg Company
+Consumer Non-Durables;CLX;Clorox Company (The)
+Consumer Non-Durables;CAG;ConAgra Brands, Inc.
+Consumer Non-Durables;SJM;J.M. Smucker Company (The) New
+Consumer Non-Durables;CPB;Campbell Soup Company
+Consumer Non-Durables;TAP;Molson Coors Beverage Company
+Consumer Non-Durables;LW;Lamb Weston Holdings, Inc.
+Consumer Non-Durables;UAA;Under Armour, Inc.
+Consumer Non-Durables;UA;Under Armour, Inc.
+Consumer Non-Durables;PVH;PVH Corp.
+Consumer Services;DIS;Walt Disney Company (The)
+Consumer Services;CMCSA;Comcast Corporation
+Consumer Services;MCD;McDonald’s Corporation
+Consumer Services;SBUX;Starbucks Corporation
+Consumer Services;CHTR;Charter Communications, Inc.
+Consumer Services;BKNG;Booking Holdings Inc. Common Stock
+Consumer Services;MAR;Marriott International
+Consumer Services;CMG;Chipotle Mexican Grill, Inc.
+Consumer Services;CTAS;Cintas Corporation
+Consumer Services;HLT;Hilton Worldwide Holdings Inc.
+Consumer Services;YUM;Yum! Brands, Inc.
+Consumer Services;LVS;Las Vegas Sands Corp.
+Consumer Services;EXPE;Expedia Group, Inc.
+Consumer Services;LYV;Live Nation Entertainment, Inc.
+Consumer Services;MGM;MGM Resorts International
+Consumer Services;VIAC;ViacomCBS Inc.
+Consumer Services;FOX;Fox Corporation
+Consumer Services;FOXA;Fox Corporation
+Consumer Services;RCL;D/B/A Royal Caribbean Cruises Ltd.
+Consumer Services;DPZ;Domino’s Pizza Inc
+Consumer Services;CZR;Caesars Entertainment, Inc.
+Consumer Services;DRI;Darden Restaurants, Inc.
+Consumer Services;DISH;DISH Network Corporation
+Consumer Services;ROL;Rollins, Inc.
+Consumer Services;NWSA;News Corporation
+Consumer Services;NWS;News Corporation
+Consumer Services;DISCA;Discovery, Inc. – Series A
+Consumer Services;DISCK;Discovery, Inc. – Series C
+Consumer Services;WYNN;Wynn Resorts, Limited
+Consumer Services;NCLH;Norwegian Cruise Line Holdings Ltd.
+Consumer Services;PENN;Penn National Gaming, Inc.
+Distribution Services;SYY;Sysco Corporation
+Distribution Services;MCK;McKesson Corporation
+Distribution Services;FAST;Fastenal Company
+Distribution Services;ABC;AmerisourceBergen Corporation
+Distribution Services;GWW;W.W. Grainger, Inc.
+Distribution Services;POOL;Pool Corporation
+Distribution Services;GPC;Genuine Parts Company
+Distribution Services;CAH;Cardinal Health, Inc.
+Distribution Services;HSIC;Henry Schein, Inc.
+Electronic Technology;AAPL;Apple Inc.
+Electronic Technology;NVDA;NVIDIA Corporation
+Electronic Technology;AVGO;Broadcom Inc.
+Electronic Technology;INTC;Intel Corporation
+Electronic Technology;QCOM;QUALCOMM Incorporated
+Electronic Technology;AMD;Advanced Micro Devices, Inc.
+Electronic Technology;TXN;Texas Instruments Incorporated
+Electronic Technology;RTX;Raytheon Technologies Corporation
+Electronic Technology;BA;Boeing Company (The)
+Electronic Technology;MU;Micron Technology, Inc.
+Electronic Technology;LRCX;Lam Research Corporation
+Electronic Technology;LMT;Lockheed Martin Corporation
+Electronic Technology;ADI;Analog Devices, Inc.
+Electronic Technology;KLAC;KLA Corporation
+Electronic Technology;NXPI;NXP Semiconductors N.V.
+Electronic Technology;NOC;Northrop Grumman Corporation
+Electronic Technology;GD;General Dynamics Corporation
+Electronic Technology;FTNT;Fortinet, Inc.
+Electronic Technology;TEL;TE Connectivity Ltd. New Switzerland Registered Shares
+Electronic Technology;APH;Amphenol Corporation
+Electronic Technology;MCHP;Microchip Technology Incorporated
+Electronic Technology;MSI;Motorola Solutions, Inc.
+Electronic Technology;ANET;Arista Networks, Inc.
+Electronic Technology;LHX;L3Harris Technologies, Inc.
+Electronic Technology;HPQ;HP Inc.
+Electronic Technology;KEYS;Keysight Technologies Inc.
+Electronic Technology;TDG;Transdigm Group Inc.
+Electronic Technology;GLW;Corning Incorporated
+Electronic Technology;ZBRA;Zebra Technologies Corporation
+Electronic Technology;TER;Teradyne, Inc.
+Electronic Technology;SWKS;Skyworks Solutions, Inc.
+Electronic Technology;FTV;Fortive Corporation
+Electronic Technology;GRMN;Garmin Ltd.
+Electronic Technology;STX;Seagate Technology Holdings PLC
+Electronic Technology;ENPH;Enphase Energy, Inc.
+Electronic Technology;MPWR;Monolithic Power Systems, Inc.
+Electronic Technology;TRMB;Trimble Inc.
+Electronic Technology;HPE;Hewlett Packard Enterprise Company
+Electronic Technology;TDY;Teledyne Technologies Incorporated
+Electronic Technology;WDC;Western Digital Corporation
+Electronic Technology;NTAP;NetApp, Inc.
+Electronic Technology;QRVO;Qorvo, Inc.
+Electronic Technology;TXT;Textron Inc.
+Electronic Technology;FFIV;F5, Inc.
+Electronic Technology;HWM;Howmet Aerospace Inc.
+Electronic Technology;IPGP;IPG Photonics Corporation
+Electronic Technology;HII;Huntington Ingalls Industries, Inc.
+Energy Minerals;XOM;Exxon Mobil Corporation
+Energy Minerals;CVX;Chevron Corporation
+Energy Minerals;COP;ConocoPhillips
+Energy Minerals;EOG;EOG Resources, Inc.
+Energy Minerals;PXD;Pioneer Natural Resources Company
+Energy Minerals;MPC;Marathon Petroleum Corporation
+Energy Minerals;PSX;Phillips 66
+Energy Minerals;VLO;Valero Energy Corporation
+Energy Minerals;DVN;Devon Energy Corporation
+Energy Minerals;OXY;Occidental Petroleum Corporation
+Energy Minerals;HES;Hess Corporation
+Energy Minerals;FANG;Diamondback Energy, Inc. – Commmon Stock
+Energy Minerals;CTRA;Coterra Energy Inc.
+Energy Minerals;MRO;Marathon Oil Corporation
+Energy Minerals;APA;APA Corporation
+Finance;JPM;JP Morgan Chase & Co.
+Finance;V;Visa Inc.
+Finance;BAC;Bank of America Corporation
+Finance;MA;Mastercard Incorporated
+Finance;WFC;Wells Fargo & Company
+Finance;MS;Morgan Stanley
+Finance;SCHW;Charles Schwab Corporation (The)
+Finance;BLK;BlackRock, Inc.
+Finance;AMT;American Tower Corporation (REIT)
+Finance;GS;Goldman Sachs Group, Inc. (The)
+Finance;AXP;American Express Company
+Finance;PLD;Prologis, Inc.
+Finance;C;Citigroup, Inc.
+Finance;CCI;Crown Castle International Corp. (REIT)
+Finance;PNC;PNC Financial Services Group, Inc. (The)
+Finance;USB;U.S. Bancorp
+Finance;MMC;Marsh & McLennan Companies, Inc.
+Finance;CB;Chubb Limited
+Finance;CME;CME Group Inc.
+Finance;EQIX;Equinix, Inc.
+Finance;ICE;Intercontinental Exchange Inc.
+Finance;PSA;Public Storage
+Finance;AON;Aon plc
+Finance;COF;Capital One Financial Corporation
+Finance;PGR;Progressive Corporation (The)
+Finance;MET;MetLife, Inc.
+Finance;SPG;Simon Property Group, Inc.
+Finance;DLR;Digital Realty Trust, Inc.
+Finance;BK;The Bank of New York Mellon Corporation
+Finance;AIG;American International Group, Inc. New
+Finance;TROW;T. Rowe Price Group, Inc.
+Finance;SBAC;SBA Communications Corporation
+Finance;PRU;Prudential Financial, Inc.
+Finance;O;Realty Income Corporation
+Finance;SIVB;SVB Financial Group
+Finance;AFL;AFLAC Incorporated
+Finance;TRV;The Travelers Companies, Inc.
+Finance;WELL;Welltower Inc.
+Finance;CBRE;CBRE Group Inc
+Finance;AVB;AvalonBay Communities, Inc.
+Finance;FRC;FIRST REPUBLIC BANK
+Finance;DFS;Discover Financial Services
+Finance;AJG;Arthur J. Gallagher & Co.
+Finance;ARE;Alexandria Real Estate Equities, Inc.
+Finance;STT;State Street Corporation
+Finance;AMP;Ameriprise Financial, Inc.
+Finance;EQR;Equity Residential
+Finance;ALL;Allstate Corporation (The)
+Finance;NDAQ;Nasdaq, Inc.
+Finance;WY;Weyerhaeuser Company
+Finance;FITB;Fifth Third Bancorp
+Finance;MAA;Mid-America Apartment Communities, Inc.
+Finance;SYF;Synchrony Financial
+Finance;DRE;Duke Realty Corporation
+Finance;NTRS;Northern Trust Corporation
+Finance;URI;United Rentals, Inc.
+Finance;HIG;Hartford Financial Services Group, Inc. (The)
+Finance;ESS;Essex Property Trust, Inc.
+Finance;RF;Regions Financial Corporation
+Finance;RJF;Raymond James Financial, Inc.
+Finance;VTR;Ventas, Inc.
+Finance;CFG;Citizens Financial Group, Inc.
+Finance;MTB;M&T Bank Corporation
+Finance;PEAK;Healthpeak Properties, Inc.
+Finance;BRO;Brown & Brown, Inc.
+Finance;PFG;Principal Financial Group Inc
+Finance;SBNY;Signature Bank
+Finance;UDR;UDR, Inc.
+Finance;CINF;Cincinnati Financial Corporation
+Finance;BXP;Boston Properties, Inc.
+Finance;BEN;Franklin Resources, Inc.
+Finance;KIM;Kimco Realty Corporation
+Finance;IRM;Iron Mountain Incorporated (Delaware)
+Finance;MKTX;MarketAxess Holdings, Inc.
+Finance;L;Loews Corporation
+Finance;WRB;W.R. Berkley Corporation
+Finance;CBOE;Cboe Global Markets, Inc.
+Finance;REG;Regency Centers Corporation
+Finance;LNC;Lincoln National Corporation
+Finance;HST;Host Hotels
+Finance;CMA;Comerica Incorporated
+Finance;IVZ;Invesco Ltd
+Finance;RE;Everest Re Group, Ltd.
+Finance;FRT;Federal Realty Investment Trust
+Finance;ZION;Zions Bancorporation N.A.
+Finance;GL;Globe Life Inc.
+Finance;AIZ;Assurant, Inc.
+Finance;VNO;Vornado Realty Trust
+Finance;PBCT;People’s
+Health Services;UNH;UnitedHealth Group Incorporated
+Health Services;ANTM;Anthem, Inc.
+Health Services;HCA;HCA Healthcare, Inc.
+Health Services;CI;Cigna Corporation
+Health Services;HUM;Humana Inc.
+Health Services;IQV;IQVIA Holdings, Inc.
+Health Services;CNC;Centene Corporation
+Health Services;LH;Laboratory Corporation of America Holdings
+Health Services;DGX;Quest Diagnostics Incorporated
+Health Services;DVA;DaVita Inc.
+Health Services;UHS;Universal Health Services, Inc.
+Health Technology;JNJ;Johnson & Johnson
+Health Technology;PFE;Pfizer, Inc.
+Health Technology;LLY;Eli Lilly and Company
+Health Technology;TMO;Thermo Fisher Scientific Inc
+Health Technology;ABT;Abbott Laboratories
+Health Technology;ABBV;AbbVie Inc.
+Health Technology;DHR;Danaher Corporation
+Health Technology;MRK;Merck & Company, Inc.
+Health Technology;MDT;Medtronic plc.
+Health Technology;BMY;Bristol-Myers Squibb Company
+Health Technology;ISRG;Intuitive Surgical, Inc.
+Health Technology;AMGN;Amgen Inc.
+Health Technology;ZTS;Zoetis Inc.
+Health Technology;SYK;Stryker Corporation
+Health Technology;MRNA;Moderna, Inc.
+Health Technology;GILD;Gilead Sciences, Inc.
+Health Technology;EW;Edwards Lifesciences Corporation
+Health Technology;BDX;Becton, Dickinson and Company
+Health Technology;REGN;Regeneron Pharmaceuticals, Inc.
+Health Technology;BSX;Boston Scientific Corporation
+Health Technology;ILMN;Illumina, Inc.
+Health Technology;VRTX;Vertex Pharmaceuticals Incorporated
+Health Technology;IDXX;IDEXX Laboratories, Inc.
+Health Technology;ALGN;Align Technology, Inc.
+Health Technology;DXCM;DexCom, Inc.
+Health Technology;A;Agilent Technologies, Inc.
+Health Technology;BAX;Baxter International Inc.
+Health Technology;MTD;Mettler-Toledo International, Inc.
+Health Technology;RMD;ResMed Inc.
+Health Technology;BIIB;Biogen Inc.
+Health Technology;WST;West Pharmaceutical Services, Inc.
+Health Technology;ZBH;Zimmer Biomet Holdings, Inc.
+Health Technology;PKI;PerkinElmer, Inc.
+Health Technology;WAT;Waters Corporation
+Health Technology;BIO;Bio-Rad Laboratories, Inc.
+Health Technology;CTLT;Catalent, Inc.
+Health Technology;COO;The Cooper Companies, Inc.
+Health Technology;TECH;Bio-Techne Corp
+Health Technology;HOLX;Hologic, Inc.
+Health Technology;ABMD;ABIOMED, Inc.
+Health Technology;INCY;Incyte Corporation
+Health Technology;TFX;Teleflex Incorporated
+Health Technology;XRAY;DENTSPLY SIRONA Inc.
+Industrial Services;WM;Waste Management, Inc.
+Industrial Services;SLB;Schlumberger N.V.
+Industrial Services;RSG;Republic Services, Inc.
+Industrial Services;KMI;Kinder Morgan, Inc.
+Industrial Services;WMB;Williams Companies, Inc. (The)
+Industrial Services;OKE;ONEOK, Inc.
+Industrial Services;BKR;Baker Hughes Company
+Industrial Services;HAL;Halliburton Company
+Industrial Services;J;Jacobs Engineering Group Inc.
+Industrial Services;PWR;Quanta Services, Inc.
+Non-Energy Minerals;FCX;Freeport-McMoRan, Inc.
+Non-Energy Minerals;NEM;Newmont Corporation
+Non-Energy Minerals;NUE;Nucor Corporation
+Non-Energy Minerals;VMC;Vulcan Materials Company (Holding Company)
+Non-Energy Minerals;MLM;Martin Marietta Materials, Inc.
+Process Industries;LIN;Linde plc
+Process Industries;SHW;Sherwin-Williams Company (The)
+Process Industries;ECL;Ecolab Inc.
+Process Industries;APD;Air Products and Chemicals, Inc.
+Process Industries;DOW;Dow Inc.
+Process Industries;DD;DuPont de Nemours, Inc.
+Process Industries;PPG;PPG Industries, Inc.
+Process Industries;ADM;Archer-Daniels-Midland Company
+Process Industries;CTVA;Corteva, Inc.
+Process Industries;LYB;LyondellBasell Industries NV
+Process Industries;BLL;Ball Corporation
+Process Industries;ALB;Albemarle Corporation
+Process Industries;CE;Celanese Corporation Celanese Corporation
+Process Industries;AMCR;Amcor plc
+Process Industries;IP;International Paper Company
+Process Industries;AVY;Avery Dennison Corporation
+Process Industries;EMN;Eastman Chemical Company
+Process Industries;MOS;Mosaic Company (The)
+Process Industries;CF;CF Industries Holdings, Inc.
+Process Industries;FMC;FMC Corporation
+Process Industries;PKG;Packaging Corporation of America
+Process Industries;WRK;Westrock Company
+Process Industries;SEE;Sealed Air Corporation
+Producer Manufacturing;HON;Honeywell International Inc.
+Producer Manufacturing;AMAT;Applied Materials, Inc.
+Producer Manufacturing;CAT;Caterpillar, Inc.
+Producer Manufacturing;DE;Deere & Company
+Producer Manufacturing;GE;General Electric Company
+Producer Manufacturing;MMM;3M Company
+Producer Manufacturing;ITW;Illinois Tool Works Inc.
+Producer Manufacturing;ETN;Eaton Corporation, PLC
+Producer Manufacturing;JCI;Johnson Controls International plc
+Producer Manufacturing;EMR;Emerson Electric Company
+Producer Manufacturing;TT;Trane Technologies plc
+Producer Manufacturing;CARR;Carrier Global Corporation
+Producer Manufacturing;APTV;Aptiv PLC
+Producer Manufacturing;PH;Parker-Hannifin Corporation
+Producer Manufacturing;ROK;Rockwell Automation, Inc.
+Producer Manufacturing;OTIS;Otis Worldwide Corporation
+Producer Manufacturing;AME;AMETEK, Inc.
+Producer Manufacturing;CMI;Cummins Inc.
+Producer Manufacturing;PCAR;PACCAR Inc.
+Producer Manufacturing;DOV;Dover Corporation
+Producer Manufacturing;IR;Ingersoll Rand Inc.
+Producer Manufacturing;GNRC;Generac Holdlings Inc.
+Producer Manufacturing;XYL;Xylem Inc.
+Producer Manufacturing;IEX;IDEX Corporation
+Producer Manufacturing;WAB;Westinghouse Air Brake Technologies Corporation
+Producer Manufacturing;MAS;Masco Corporation
+Producer Manufacturing;SEDG;SolarEdge Technologies, Inc.
+Producer Manufacturing;FBHS;Fortune Brands Home & Security, Inc.
+Producer Manufacturing;AOS;A.O. Smith Corporation
+Producer Manufacturing;PNR;Pentair plc.
+Producer Manufacturing;ALLE;Allegion plc
+Producer Manufacturing;BWA;BorgWarner Inc.
+Producer Manufacturing;NWL;Newell Brands Inc.
+Retail Trade;AMZN;Amazon.com, Inc.
+Retail Trade;HD;Home Depot, Inc. (The)
+Retail Trade;WMT;Walmart Inc.
+Retail Trade;COST;Costco Wholesale Corporation
+Retail Trade;LOW;Lowe’s Companies, Inc.
+Retail Trade;CVS;CVS Health Corporation
+Retail Trade;TGT;Target Corporation
+Retail Trade;TJX;TJX Companies, Inc. (The)
+Retail Trade;DG;Dollar General Corporation
+Retail Trade;ORLY;O’Reilly Automotive, Inc.
+Retail Trade;WBA;Walgreens Boots Alliance, Inc.
+Retail Trade;AZO;AutoZone, Inc.
+Retail Trade;EBAY;eBay Inc.
+Retail Trade;ROST;Ross Stores, Inc.
+Retail Trade;KR;Kroger Company (The)
+Retail Trade;DLTR;Dollar Tree, Inc.
+Retail Trade;TSCO;Tractor Supply Company
+Retail Trade;ETSY;Etsy, Inc.
+Retail Trade;BBY;Best Buy Co., Inc.
+Retail Trade;ULTA;Ulta Beauty, Inc.
+Retail Trade;KMX;CarMax Inc
+Retail Trade;BBWI;Bath & Body Works, Inc.
+Retail Trade;AAP;Advance Auto Parts Inc.
+Retail Trade;TPR;Tapestry, Inc.
+Retail Trade;RL;Ralph Lauren Corporation
+Retail Trade;GPS;Gap, Inc. (The)
+Technology Services;MSFT;Microsoft Corporation
+Technology Services;GOOG;Alphabet Inc.
+Technology Services;GOOGL;Alphabet Inc.
+Technology Services;FB;Meta Platforms, Inc.
+Technology Services;ACN;Accenture plc
+Technology Services;CSCO;Cisco Systems, Inc.
+Technology Services;NFLX;Netflix, Inc.
+Technology Services;CRM;Salesforce.com Inc
+Technology Services;ORCL;Oracle Corporation
+Technology Services;PYPL;PayPal Holdings, Inc.
+Technology Services;INTU;Intuit Inc.
+Technology Services;NOW;ServiceNow, Inc.
+Technology Services;IBM;International Business Machines Corporation
+Technology Services;ADP;Automatic Data Processing, Inc.
+Technology Services;FISV;Fiserv, Inc.
+Technology Services;FIS;Fidelity National Information Services, Inc.
+Technology Services;ADSK;Autodesk, Inc.
+Technology Services;SNPS;Synopsys, Inc.
+Technology Services;CDNS;Cadence Design Systems, Inc.
+Technology Services;ROP;Roper Technologies, Inc.
+Technology Services;MSCI;MSCI Inc
+Technology Services;PAYX;Paychex, Inc.
+Technology Services;CTSH;Cognizant Technology Solutions Corporation
+Technology Services;GPN;Global Payments Inc.
+Technology Services;MTCH;Match Group, Inc.
+Technology Services;EPAM;EPAM Systems, Inc.
+Technology Services;VRSK;Verisk Analytics, Inc.
+Technology Services;ANSS;ANSYS, Inc.
+Technology Services;TWTR;Twitter, Inc.
+Technology Services;VRSN;VeriSign, Inc.
+Technology Services;CDW;CDW Corporation
+Technology Services;CERN;Cerner Corporation
+Technology Services;IT;Gartner, Inc.
+Technology Services;PAYC;Paycom Software, Inc.
+Technology Services;TYL;Tyler Technologies, Inc.
+Technology Services;BR;Broadridge Financial Solutions, Inc.
+Technology Services;AKAM;Akamai Technologies, Inc.
+Technology Services;FDS;FactSet Research Systems Inc.
+Technology Services;CDAY;Ceridian HCM Holding Inc.
+Technology Services;NLOK;NortonLifeLock Inc.
+Technology Services;PTC;PTC Inc.
+Technology Services;JKHY;Jack Henry & Associates, Inc.
+Technology Services;LDOS;Leidos Holdings, Inc.
+Technology Services;CTXS;Citrix Systems, Inc.
+Technology Services;JNPR;Juniper Networks, Inc.
+Technology Services;DXC;DXC Technology Company
+Transportation;UPS;United Parcel Service, Inc.
+Transportation;UNP;Union Pacific Corporation
+Transportation;CSX;CSX Corporation
+Transportation;FDX;FedEx Corporation
+Transportation;ODFL;Old Dominion Freight Line, Inc.
+Transportation;LUV;Southwest Airlines Company
+Transportation;DAL;Delta Air Lines, Inc.
+Transportation;EXPD;Expeditors International of Washington, Inc.
+Transportation;JBHT;J.B. Hunt Transport Services, Inc.
+Transportation;UAL;United Airlines Holdings, Inc.
+Transportation;CHRW;C.H. Robinson Worldwide, Inc.
+Transportation;AAL;American Airlines Group, Inc.
+Transportation;ALK;Alaska Air Group, Inc.
+Utilities;NEE;NextEra Energy, Inc.
+Utilities;DUK;Duke Energy Corporation (Holding Company)
+Utilities;SO;Southern Company (The)
+Utilities;D;Dominion Energy, Inc.
+Utilities;EXC;Exelon Corporation
+Utilities;AEP;American Electric Power Company, Inc.
+Utilities;SRE;DBA Sempra
+Utilities;XEL;Xcel Energy Inc.
+Utilities;PEG;Public Service Enterprise Group Incorporated
+Utilities;AWK;American Water Works Company, Inc.
+Utilities;ES;Eversource Energy (D/B/A)
+Utilities;WEC;WEC Energy Group, Inc.
+Utilities;ED;Consolidated Edison, Inc.
+Utilities;EIX;Edison International
+Utilities;DTE;DTE Energy Company
+Utilities;AEE;Ameren Corporation
+Utilities;PPL;PPL Corporation
+Utilities;FE;FirstEnergy Corp.
+Utilities;ETR;Entergy Corporation
+Utilities;CMS;CMS Energy Corporation
+Utilities;CNP;CenterPoint Energy, Inc (Holding Co)
+Utilities;AES;The AES Corporation
+Utilities;EVRG;Evergy, Inc.
+Utilities;LNT;Alliant Energy Corporation
+Utilities;ATO;Atmos Energy Corporation
+Utilities;NI;NiSource Inc
+Utilities;NRG;NRG Energy, Inc.
+Utilities;PNW;Pinnacle West Capital Corporation
