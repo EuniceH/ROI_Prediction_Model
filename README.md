@@ -59,6 +59,8 @@ pip install pystan
 
 pip install holoviews
 
+pip install plotly
+
 ```
 
 ---
