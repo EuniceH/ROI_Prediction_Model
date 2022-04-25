@@ -65,6 +65,14 @@ pip install holoviews
 
 ## Usage
 
+The application requires API key from https://www.alphavantage.co/.
+To use the application, simply download the files from this github pages.
+To run, just type steamlit run app.py in the main directory.
+
+```python
+steamlit run app.py 
+```
+
 The home page of the streamlit application gives the user a flow chart of the applications logic, and a few fields to fill in with drop doens including "Sector", "Ticker", and "Quarter End Date":
 
 ![home](https://user-images.githubusercontent.com/96391748/164954792-8d9d0b3f-60a8-4350-9085-c6cabbd7f250.PNG)
