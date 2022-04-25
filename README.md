@@ -66,8 +66,8 @@ pip install holoviews
 ## Usage
 
 The application requires API key from https://www.alphavantage.co/.
-To use the application, simply download the files from this github pages.
-To run, just type steamlit run app.py in the main directory.
+To use the application, users can simply download the files from this github pages.
+To run, please type steamlit run app.py in the main directory:
 
 ```python
 steamlit run app.py 
