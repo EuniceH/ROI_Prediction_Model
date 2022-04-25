@@ -70,7 +70,7 @@ To use the application, users can simply download the files from this github pag
 To run, please type steamlit run app.py in the main directory:
 
 ```python
-steamlit run app.py 
+steamlit run stlit_main.py 
 ```
 
 The home page of the streamlit application gives the user a flow chart of the applications logic, and a few fields to fill in with drop doens including "Sector", "Ticker", and "Quarter End Date":
