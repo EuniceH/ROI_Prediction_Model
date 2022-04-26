@@ -69,7 +69,7 @@ pip install plotly
 
 The application requires API key from https://www.alphavantage.co/.
 To use the application, users can simply download the files from this github pages.
-To run, please type steamlit run app.py in the main directory:
+To run, please type steamlit run stlit_main.py in the main directory:
 
 ```python
 steamlit run stlit_main.py 
